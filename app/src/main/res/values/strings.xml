@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Midtroncis Coding Assignment</string>
+    <string name = "name">Ryan Chen</string>
+    <string name = "profile_name">Profile</string>
+    <string name = "countries_name">Countries</string>
+    <string name="capital_label">Capital:</string>
+    <string name="population_label">Population:</string>
+    <string name="area_label">Area:</string>
+    <string name="region_label">Region:</string>
+    <string name="subregion_label">Sub-Region:</string>
+</resources>

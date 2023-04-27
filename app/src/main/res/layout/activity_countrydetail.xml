@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/country_name_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/capital_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/capital_label"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/population_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/population_label"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/area_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/area_label"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/region_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/region_label"
+        android:padding="16dp"/>
+
+    <TextView
+        android:id="@+id/subregion_textview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="@string/subregion_label"
+        android:padding="16dp"/>
+
+</LinearLayout>
